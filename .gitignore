@@ -1,0 +1,28 @@
+/vendor
+.idea
+*.zip
+.env
+/composer.lock
+*.DS_Store
+{
+    "name": "inilabs/istart",
+    "description": "istart",
+    "keywords": ["framework", "laravel", "istart"],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "require-dev": {
+        "fzaninotto/faker": "~1.4",
+        "phpunit/phpunit": "~5.0"
+    },
+    "autoload": {
+        "classmap": [
+        ],
+        "psr-4": {
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
