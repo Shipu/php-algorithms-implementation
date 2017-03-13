@@ -8,5 +8,5 @@ Before using PHPUnitTest you need to run below command
 
 # Cover Algorithm List 
 
-- Bubble Sort
-- Insertion Sort
+- [Bubble Sort](https://github.com/Shipu/php-algorithms-implementation/blob/master/BubbleSort/BubbleSort.php)
+- [Insertion Sort](https://github.com/Shipu/php-algorithms-implementation/blob/master/InsertionSort/InsertionSort.php)
