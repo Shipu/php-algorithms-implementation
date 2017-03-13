@@ -9,3 +9,4 @@ Before using PHPUnitTest you need to run below command
 # Cover Algorithm List 
 
 - Bubble Sort
+- Insertion Sort
